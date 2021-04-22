@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Portfolio Website.
+Web Portfolio to showcase projects and skills in better manner. 
 
-You can use the [editor on GitHub](https://github.com/SmartNoel/n03lc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
 
-### Markdown
+###### https://vinaysomawat.github.io/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
+### About me
+* Competitive Programming Page
+* Web Designing Page
+* Software Development Page
+* Android Application Page
+* Technical Writing Page
+* Machine Learning Page
+* Open Source Page
 
-```markdown
-Syntax highlighted code block
+### Hire Me banner
+### Skills
+* Skills with progress bar
+### Education
+* Undergrad
+* Intermediate
+### Work Experience
+### Contact
+* Mail Address
+* Location
 
-# Header 1
-## Header 2
-### Header 3
+### Footer
+------------------------------------------------------------------
+#### To use the template on your github:
 
-- Bulleted
-- List
+1. Click on `Fork`
+2. Rename your repo `yourgithubpseudo.github.io`
+3. Clone your fork `git clone https://github.com/yourgithubpseudo/yourgithubpseudo.github.io.git`
+4. Modify the `.html` files.
 
-1. Numbered
-2. List
+#### To setup the project and contribute on your local machine:
 
-**Bold** and _Italic_ and `Code` text
+1. Click on `Fork`.
+2. Go to your fork and `clone` the project to your local machine.
+3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
 
-[Link](url) and ![Image](src)
-```
+#### To contribute to the project:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+2. Comment on the issue: `Can I work on this?` and get assigned.
+3. Make changes to your fork and send a PR.
 
-### Jekyll Themes
+#### To create a PR:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmartNoel/n03lc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
-### Support or Contact
+#### To send a PR, follow these rules carefully,   **otherwise your PR will be closed**:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
+
+For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
